@@ -3,7 +3,14 @@ guid: 1a5b4762d51844f7c929716c95fe65e8
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - controller: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - jumpClip: {fileID: 8300000, guid: 1534fc1c46699bd43ac431c838acf6eb, type: 3}
+  - grenadeClip: {fileID: 8300000, guid: 3ce88d84d5b481543bca7cec0563af04, type: 3}
+  - gameOverClip: {fileID: 8300000, guid: b5e9bdd3eb0f347408eb081db5a31112, type: 3}
+  - weaponShootClip: {fileID: 8300000, guid: d527967b8a4c6cf4c807cfe897b5fb2d, type: 3}
+  - bullet: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

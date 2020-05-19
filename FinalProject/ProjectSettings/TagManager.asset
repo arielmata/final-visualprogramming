@@ -13,12 +13,12 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Environment
+  - Player
+  - Enemy
+  - PlayerBullet
+  - EnemyBullet
+  - Money
   - 
   - 
   - 

@@ -1,7 +1,571 @@
 fileFormatVersion: 2
 guid: 4d842b62cc3ee43a2980335f88b2cf97
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4748973393214881849
+    second: bank-platformer-tileset-16x16_0
+  - first:
+      213: 7082324908239332223
+    second: bank-platformer-tileset-16x16_1
+  - first:
+      213: 8616428137191195345
+    second: bank-platformer-tileset-16x16_2
+  - first:
+      213: 2628230699468621933
+    second: bank-platformer-tileset-16x16_3
+  - first:
+      213: -482207947208431644
+    second: bank-platformer-tileset-16x16_4
+  - first:
+      213: 4568878693900602841
+    second: bank-platformer-tileset-16x16_5
+  - first:
+      213: 1498651288417771198
+    second: bank-platformer-tileset-16x16_6
+  - first:
+      213: 8109758837311571167
+    second: bank-platformer-tileset-16x16_7
+  - first:
+      213: -7805800325461664889
+    second: bank-platformer-tileset-16x16_8
+  - first:
+      213: -4415543095287370307
+    second: bank-platformer-tileset-16x16_9
+  - first:
+      213: 9132140331524184310
+    second: bank-platformer-tileset-16x16_10
+  - first:
+      213: -1644058087642391756
+    second: bank-platformer-tileset-16x16_11
+  - first:
+      213: 6596787293654707508
+    second: bank-platformer-tileset-16x16_12
+  - first:
+      213: -3322213320584882016
+    second: bank-platformer-tileset-16x16_13
+  - first:
+      213: -6858119924210077569
+    second: bank-platformer-tileset-16x16_14
+  - first:
+      213: -5982578437758151365
+    second: bank-platformer-tileset-16x16_15
+  - first:
+      213: -4700127766910885266
+    second: bank-platformer-tileset-16x16_16
+  - first:
+      213: 6749660633073508571
+    second: bank-platformer-tileset-16x16_17
+  - first:
+      213: 7235636109290633618
+    second: bank-platformer-tileset-16x16_18
+  - first:
+      213: -8310804552035648747
+    second: bank-platformer-tileset-16x16_19
+  - first:
+      213: -568968916469214102
+    second: bank-platformer-tileset-16x16_20
+  - first:
+      213: -1007558308985877285
+    second: bank-platformer-tileset-16x16_21
+  - first:
+      213: -3696334633934106629
+    second: bank-platformer-tileset-16x16_22
+  - first:
+      213: 370598143683156124
+    second: bank-platformer-tileset-16x16_23
+  - first:
+      213: 7088130978057927721
+    second: bank-platformer-tileset-16x16_24
+  - first:
+      213: -7338283622063047498
+    second: bank-platformer-tileset-16x16_25
+  - first:
+      213: 2133082546716730485
+    second: bank-platformer-tileset-16x16_26
+  - first:
+      213: -8722435706606731533
+    second: bank-platformer-tileset-16x16_27
+  - first:
+      213: 4660038811334506037
+    second: bank-platformer-tileset-16x16_28
+  - first:
+      213: 7120530617132391447
+    second: bank-platformer-tileset-16x16_29
+  - first:
+      213: 3903025851026923089
+    second: bank-platformer-tileset-16x16_30
+  - first:
+      213: 4502267200375735471
+    second: bank-platformer-tileset-16x16_31
+  - first:
+      213: -524134145773721619
+    second: bank-platformer-tileset-16x16_32
+  - first:
+      213: -4861920426630959267
+    second: bank-platformer-tileset-16x16_33
+  - first:
+      213: 6388628095865743871
+    second: bank-platformer-tileset-16x16_34
+  - first:
+      213: 5419340657355986809
+    second: bank-platformer-tileset-16x16_35
+  - first:
+      213: -3414951252226916327
+    second: bank-platformer-tileset-16x16_36
+  - first:
+      213: -3656385693593374571
+    second: bank-platformer-tileset-16x16_37
+  - first:
+      213: 4443321173079315034
+    second: bank-platformer-tileset-16x16_38
+  - first:
+      213: -1157043985283518501
+    second: bank-platformer-tileset-16x16_39
+  - first:
+      213: 1570096318832092782
+    second: bank-platformer-tileset-16x16_40
+  - first:
+      213: -7880221334480533626
+    second: bank-platformer-tileset-16x16_41
+  - first:
+      213: 3036925185591138291
+    second: bank-platformer-tileset-16x16_42
+  - first:
+      213: 6390113355997273367
+    second: bank-platformer-tileset-16x16_43
+  - first:
+      213: 8340315523276852267
+    second: bank-platformer-tileset-16x16_44
+  - first:
+      213: -8394881232780697595
+    second: bank-platformer-tileset-16x16_45
+  - first:
+      213: 2477897036804489816
+    second: bank-platformer-tileset-16x16_46
+  - first:
+      213: -4772465667551267122
+    second: bank-platformer-tileset-16x16_47
+  - first:
+      213: 4497801891068335536
+    second: bank-platformer-tileset-16x16_48
+  - first:
+      213: 3968736368858280722
+    second: bank-platformer-tileset-16x16_49
+  - first:
+      213: -6158370234453189206
+    second: bank-platformer-tileset-16x16_50
+  - first:
+      213: -86063990877726192
+    second: bank-platformer-tileset-16x16_51
+  - first:
+      213: -7247913298692416475
+    second: bank-platformer-tileset-16x16_52
+  - first:
+      213: 5061558656447113405
+    second: bank-platformer-tileset-16x16_53
+  - first:
+      213: 5398763505241626671
+    second: bank-platformer-tileset-16x16_54
+  - first:
+      213: -6936091698527910195
+    second: bank-platformer-tileset-16x16_55
+  - first:
+      213: 3461538788492474652
+    second: bank-platformer-tileset-16x16_56
+  - first:
+      213: 6419922692308782217
+    second: bank-platformer-tileset-16x16_57
+  - first:
+      213: -2547636571040811889
+    second: bank-platformer-tileset-16x16_58
+  - first:
+      213: 5519396471610374198
+    second: bank-platformer-tileset-16x16_59
+  - first:
+      213: 2986546738764587144
+    second: bank-platformer-tileset-16x16_60
+  - first:
+      213: -506659830535615155
+    second: bank-platformer-tileset-16x16_61
+  - first:
+      213: 6799105736163855686
+    second: bank-platformer-tileset-16x16_62
+  - first:
+      213: -842701639629372397
+    second: bank-platformer-tileset-16x16_63
+  - first:
+      213: 9138837625548836557
+    second: bank-platformer-tileset-16x16_64
+  - first:
+      213: -9044611558911625193
+    second: bank-platformer-tileset-16x16_65
+  - first:
+      213: -4432115840258766810
+    second: bank-platformer-tileset-16x16_66
+  - first:
+      213: -1621270053241699617
+    second: bank-platformer-tileset-16x16_0
+  - first:
+      213: -2725818265313452968
+    second: bank-platformer-tileset-16x16_1
+  - first:
+      213: 1932944336366997182
+    second: bank-platformer-tileset-16x16_2
+  - first:
+      213: -765398775363658941
+    second: bank-platformer-tileset-16x16_3
+  - first:
+      213: 7730831504134323923
+    second: bank-platformer-tileset-16x16_4
+  - first:
+      213: -1454497506436834920
+    second: bank-platformer-tileset-16x16_5
+  - first:
+      213: 5211506923974507353
+    second: bank-platformer-tileset-16x16_6
+  - first:
+      213: -4743764791776587047
+    second: bank-platformer-tileset-16x16_7
+  - first:
+      213: 1011618687126035607
+    second: bank-platformer-tileset-16x16_8
+  - first:
+      213: -6231731382774496506
+    second: bank-platformer-tileset-16x16_9
+  - first:
+      213: -8074193758866374022
+    second: bank-platformer-tileset-16x16_10
+  - first:
+      213: -6561886845065339647
+    second: bank-platformer-tileset-16x16_11
+  - first:
+      213: -8437519436997793937
+    second: bank-platformer-tileset-16x16_12
+  - first:
+      213: 4124317140613510447
+    second: bank-platformer-tileset-16x16_13
+  - first:
+      213: -3256359853903762699
+    second: bank-platformer-tileset-16x16_14
+  - first:
+      213: -7228076267273391008
+    second: bank-platformer-tileset-16x16_15
+  - first:
+      213: 4231231767358179836
+    second: bank-platformer-tileset-16x16_16
+  - first:
+      213: 5476287075091050935
+    second: bank-platformer-tileset-16x16_17
+  - first:
+      213: -6218016829001627797
+    second: bank-platformer-tileset-16x16_18
+  - first:
+      213: 2690147320770686578
+    second: bank-platformer-tileset-16x16_19
+  - first:
+      213: -8597538022750537478
+    second: bank-platformer-tileset-16x16_20
+  - first:
+      213: 7492995738175869813
+    second: bank-platformer-tileset-16x16_21
+  - first:
+      213: 4949619068200691552
+    second: bank-platformer-tileset-16x16_22
+  - first:
+      213: 2192374807660349853
+    second: bank-platformer-tileset-16x16_23
+  - first:
+      213: 7566017429813876539
+    second: bank-platformer-tileset-16x16_24
+  - first:
+      213: -6814671805618346263
+    second: bank-platformer-tileset-16x16_25
+  - first:
+      213: -7624094939348418311
+    second: bank-platformer-tileset-16x16_26
+  - first:
+      213: 1726197738062885301
+    second: bank-platformer-tileset-16x16_27
+  - first:
+      213: 6816678882272239644
+    second: bank-platformer-tileset-16x16_28
+  - first:
+      213: -303779493711113836
+    second: bank-platformer-tileset-16x16_29
+  - first:
+      213: 1766230411026100198
+    second: bank-platformer-tileset-16x16_30
+  - first:
+      213: 5745173792102581581
+    second: bank-platformer-tileset-16x16_31
+  - first:
+      213: 1361925494569124425
+    second: bank-platformer-tileset-16x16_32
+  - first:
+      213: -4294753812639009433
+    second: bank-platformer-tileset-16x16_33
+  - first:
+      213: 9074572800978667334
+    second: bank-platformer-tileset-16x16_34
+  - first:
+      213: -5988779220310711580
+    second: bank-platformer-tileset-16x16_35
+  - first:
+      213: 5973449229857837222
+    second: bank-platformer-tileset-16x16_36
+  - first:
+      213: 5315387702479109464
+    second: bank-platformer-tileset-16x16_37
+  - first:
+      213: -985925638943166302
+    second: bank-platformer-tileset-16x16_38
+  - first:
+      213: -8457502164760804462
+    second: bank-platformer-tileset-16x16_39
+  - first:
+      213: 5572369872563852616
+    second: bank-platformer-tileset-16x16_40
+  - first:
+      213: -3122701670204263014
+    second: bank-platformer-tileset-16x16_41
+  - first:
+      213: 3919218572683548079
+    second: bank-platformer-tileset-16x16_42
+  - first:
+      213: -2640189886911165772
+    second: bank-platformer-tileset-16x16_43
+  - first:
+      213: -8954318964717992225
+    second: bank-platformer-tileset-16x16_44
+  - first:
+      213: 3055430529528790423
+    second: bank-platformer-tileset-16x16_45
+  - first:
+      213: -691966524865177257
+    second: bank-platformer-tileset-16x16_46
+  - first:
+      213: 4287633944522501482
+    second: bank-platformer-tileset-16x16_47
+  - first:
+      213: 8387329275138344099
+    second: bank-platformer-tileset-16x16_48
+  - first:
+      213: 7876534292204306058
+    second: bank-platformer-tileset-16x16_49
+  - first:
+      213: -3381581057276808787
+    second: bank-platformer-tileset-16x16_50
+  - first:
+      213: 4497130989993231837
+    second: bank-platformer-tileset-16x16_51
+  - first:
+      213: -2627681648719706805
+    second: bank-platformer-tileset-16x16_52
+  - first:
+      213: -8134823363807921279
+    second: bank-platformer-tileset-16x16_53
+  - first:
+      213: 3754877459175098317
+    second: bank-platformer-tileset-16x16_54
+  - first:
+      213: -3576558062911039213
+    second: bank-platformer-tileset-16x16_55
+  - first:
+      213: -5262814795925249477
+    second: bank-platformer-tileset-16x16_56
+  - first:
+      213: -8602661699424176584
+    second: bank-platformer-tileset-16x16_57
+  - first:
+      213: 3164314586063966175
+    second: bank-platformer-tileset-16x16_58
+  - first:
+      213: 4143442657480104065
+    second: bank-platformer-tileset-16x16_59
+  - first:
+      213: -127399350771498534
+    second: bank-platformer-tileset-16x16_60
+  - first:
+      213: -2365582649427801124
+    second: bank-platformer-tileset-16x16_61
+  - first:
+      213: -6659910148403258008
+    second: bank-platformer-tileset-16x16_62
+  - first:
+      213: -4138034926417549246
+    second: bank-platformer-tileset-16x16_63
+  - first:
+      213: -246607376419618118
+    second: bank-platformer-tileset-16x16_64
+  - first:
+      213: -3668492721517278690
+    second: bank-platformer-tileset-16x16_65
+  - first:
+      213: -8199128140453878687
+    second: bank-platformer-tileset-16x16_66
+  - first:
+      213: -1308834909321299564
+    second: bank-platformer-tileset-16x16_67
+  - first:
+      213: -7987445452847138013
+    second: bank-platformer-tileset-16x16_68
+  - first:
+      213: 4960236319000875671
+    second: bank-platformer-tileset-16x16_69
+  - first:
+      213: -6370302853583834288
+    second: bank-platformer-tileset-16x16_70
+  - first:
+      213: 7247301739406771387
+    second: bank-platformer-tileset-16x16_71
+  - first:
+      213: 2783321683788840606
+    second: bank-platformer-tileset-16x16_72
+  - first:
+      213: 936437734582533738
+    second: bank-platformer-tileset-16x16_73
+  - first:
+      213: 760721282810689981
+    second: bank-platformer-tileset-16x16_74
+  - first:
+      213: 6477948441025637850
+    second: bank-platformer-tileset-16x16_75
+  - first:
+      213: 4964936053436625370
+    second: bank-platformer-tileset-16x16_76
+  - first:
+      213: 7535273000814356545
+    second: bank-platformer-tileset-16x16_77
+  - first:
+      213: 7855681342124385648
+    second: bank-platformer-tileset-16x16_78
+  - first:
+      213: -215183636949137587
+    second: bank-platformer-tileset-16x16_79
+  - first:
+      213: -2586324437052721823
+    second: bank-platformer-tileset-16x16_80
+  - first:
+      213: 8185568194948959856
+    second: bank-platformer-tileset-16x16_81
+  - first:
+      213: -405289873822103166
+    second: bank-platformer-tileset-16x16_82
+  - first:
+      213: -3903071581722039591
+    second: bank-platformer-tileset-16x16_83
+  - first:
+      213: -176174937274824682
+    second: bank-platformer-tileset-16x16_84
+  - first:
+      213: 2368006214779517957
+    second: bank-platformer-tileset-16x16_85
+  - first:
+      213: -2714206873556269939
+    second: bank-platformer-tileset-16x16_86
+  - first:
+      213: 4534432575977027141
+    second: bank-platformer-tileset-16x16_87
+  - first:
+      213: 3467049065005696830
+    second: bank-platformer-tileset-16x16_88
+  - first:
+      213: 6068656448301997593
+    second: bank-platformer-tileset-16x16_89
+  - first:
+      213: 1969807053898652295
+    second: bank-platformer-tileset-16x16_90
+  - first:
+      213: 2797508635090013412
+    second: bank-platformer-tileset-16x16_91
+  - first:
+      213: -3491549469388078738
+    second: bank-platformer-tileset-16x16_92
+  - first:
+      213: -1384221917747731920
+    second: bank-platformer-tileset-16x16_93
+  - first:
+      213: -6573953146949845193
+    second: bank-platformer-tileset-16x16_94
+  - first:
+      213: -8669163465099821234
+    second: bank-platformer-tileset-16x16_95
+  - first:
+      213: 6605933169309450850
+    second: bank-platformer-tileset-16x16_96
+  - first:
+      213: 8022230757516581395
+    second: bank-platformer-tileset-16x16_97
+  - first:
+      213: -1472499681104016810
+    second: bank-platformer-tileset-16x16_98
+  - first:
+      213: 5046876473043667012
+    second: bank-platformer-tileset-16x16_99
+  - first:
+      213: -2835973732839808436
+    second: bank-platformer-tileset-16x16_100
+  - first:
+      213: -1621952037615710200
+    second: bank-platformer-tileset-16x16_101
+  - first:
+      213: -6160756056141837594
+    second: bank-platformer-tileset-16x16_102
+  - first:
+      213: 6809583861570417506
+    second: bank-platformer-tileset-16x16_103
+  - first:
+      213: 8217659143407496145
+    second: bank-platformer-tileset-16x16_104
+  - first:
+      213: 1459012879034407068
+    second: bank-platformer-tileset-16x16_105
+  - first:
+      213: -2089655697575340969
+    second: bank-platformer-tileset-16x16_106
+  - first:
+      213: -8375258321118707285
+    second: bank-platformer-tileset-16x16_107
+  - first:
+      213: -5692793439083755837
+    second: bank-platformer-tileset-16x16_108
+  - first:
+      213: -6089495112550574929
+    second: bank-platformer-tileset-16x16_109
+  - first:
+      213: 2562212810285073579
+    second: bank-platformer-tileset-16x16_110
+  - first:
+      213: 6487712569254863305
+    second: bank-platformer-tileset-16x16_111
+  - first:
+      213: -2169054732726804531
+    second: bank-platformer-tileset-16x16_112
+  - first:
+      213: 5141960713423229477
+    second: bank-platformer-tileset-16x16_113
+  - first:
+      213: 3237750884081666796
+    second: bank-platformer-tileset-16x16_114
+  - first:
+      213: 7293809835206994913
+    second: bank-platformer-tileset-16x16_115
+  - first:
+      213: -5418990059027571710
+    second: bank-platformer-tileset-16x16_116
+  - first:
+      213: -5105648016628248816
+    second: bank-platformer-tileset-16x16_117
+  - first:
+      213: -5594378003611401730
+    second: bank-platformer-tileset-16x16_118
+  - first:
+      213: -8065592814841879853
+    second: bank-platformer-tileset-16x16_119
+  - first:
+      213: 7988941814719865624
+    second: bank-platformer-tileset-16x16_120
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -41,11 +605,11 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 1
+  spriteExtrude: 5
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -84,7 +648,1414 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2cc87f9771089e0800000000000000
+      internalID: -1621270053241699617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c58bdcab2fb2ad0800000000000000
+      internalID: -2725818265313452968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe02cbf1a233da10800000000000000
+      internalID: 1932944336366997182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b1eea7ed1c065f0800000000000000
+      internalID: -765398775363658941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de33561b4e694b60800000000000000
+      internalID: 7730831504134323923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8991422693690dbe0800000000000000
+      internalID: -1454497506436834920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b3df38fedf25840800000000000000
+      internalID: 5211506923974507353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2d6203e03ca2eb0800000000000000
+      internalID: -4743764791776587047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c5b4e06ddf90e00800000000000000
+      internalID: 1011618687126035607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603821213517489a0800000000000000
+      internalID: -6231731382774496506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7208132e83b2ff80800000000000000
+      internalID: -8074193758866374022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d52974eae7fe4a0800000000000000
+      internalID: -6561886845065339647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67ea44a6c8e7ea80800000000000000
+      internalID: -8437519436997793937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25b25b76948c3930800000000000000
+      internalID: 4124317140613510447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa293f37f51fc2d0800000000000000
+      internalID: -3256359853903762699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064fcbf4ee6b0bb90800000000000000
+      internalID: -7228076267273391008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf98bb7dfda58ba30800000000000000
+      internalID: 4231231767358179836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b17dd6841eaffb40800000000000000
+      internalID: 5476287075091050935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6705f373aa25b9a0800000000000000
+      internalID: -6218016829001627797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e61083cb2555520800000000000000
+      internalID: 2690147320770686578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af83a0358b86fa880800000000000000
+      internalID: -8597538022750537478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5731d7d9ce77cf760800000000000000
+      internalID: 7492995738175869813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0672a9d715490b440800000000000000
+      internalID: 4949619068200691552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d994c199541ec6e10800000000000000
+      internalID: 2192374807660349853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37587414c4eff860800000000000000
+      internalID: 7566017429813876539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6af35391c6d61a0800000000000000
+      internalID: -6814671805618346263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0c84efb06c13690800000000000000
+      internalID: -7624094939348418311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1325d62bfa4f710800000000000000
+      internalID: 1726197738062885301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c106ebdb355b99e50800000000000000
+      internalID: 6816678882272239644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4911d43f822c8cbf0800000000000000
+      internalID: -303779493711113836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efe3b07339e28810800000000000000
+      internalID: 1766230411026100198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45882bef15fabf40800000000000000
+      internalID: 5745173792102581581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9424752850886e210800000000000000
+      internalID: 1361925494569124425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765b5e77928f564c0800000000000000
+      internalID: -4294753812639009433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64741c222eb5fed70800000000000000
+      internalID: 9074572800978667334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2a32f670593eca0800000000000000
+      internalID: -5988779220310711580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0d1850d64f5e250800000000000000
+      internalID: 5973449229857837222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d3fb904fc04c940800000000000000
+      internalID: 5315387702479109464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0b7d3ead94152f0800000000000000
+      internalID: -985925638943166302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293c556479ae0aa80800000000000000
+      internalID: -8457502164760804462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845d14b10e8055d40800000000000000
+      internalID: 5572369872563852616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95b4ff206fe9a4d0800000000000000
+      internalID: -3122701670204263014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa59ae5e68cd36630800000000000000
+      internalID: 3919218572683548079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bac41349492c5bd0800000000000000
+      internalID: -2640189886911165772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6c076f75edbb380800000000000000
+      internalID: -8954318964717992225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d7274d0e1176a20800000000000000
+      internalID: 3055430529528790423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75913f0ac14a566f0800000000000000
+      internalID: -691966524865177257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dab2e0b5cb08b30800000000000000
+      internalID: 4287633944522501482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a40bdaa987c56470800000000000000
+      internalID: 8387329275138344099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e350405321f4d60800000000000000
+      internalID: 7876534292204306058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da173ddd1f53211d0800000000000000
+      internalID: -3381581057276808787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd582fefec4096e30800000000000000
+      internalID: 4497130989993231837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45cf396679988bd0800000000000000
+      internalID: -2627681648719706805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b3ea1304d4b1f80800000000000000
+      internalID: -8134823363807921279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7c049a7210c1430800000000000000
+      internalID: 3754877459175098317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319d0a524638d5ec0800000000000000
+      internalID: -3576558062911039213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32a432a3d9b6f6b0800000000000000
+      internalID: -5262814795925249477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836b6f263c43d9880800000000000000
+      internalID: -8602661699424176584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf0eebc957e9eb20800000000000000
+      internalID: 3164314586063966175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_59
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1885d42e427708930800000000000000
+      internalID: 4143442657480104065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad146a827f26b3ef0800000000000000
+      internalID: -127399350771498534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb470e1d13cb2fd0800000000000000
+      internalID: -2365582649427801124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d9768710f3393a0800000000000000
+      internalID: -6659910148403258008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248e8be982fb296c0800000000000000
+      internalID: -4138034926417549246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab28481d5efd39cf0800000000000000
+      internalID: -246607376419618118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a4bd86e45e61dc0800000000000000
+      internalID: -3668492721517278690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-platformer-tileset-16x16_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1646658a568d63e80800000000000000
+      internalID: -8199128140453878687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
