@@ -10,7 +10,9 @@ MonoImporter:
   - grenadeClip: {fileID: 8300000, guid: 3ce88d84d5b481543bca7cec0563af04, type: 3}
   - gameOverClip: {fileID: 8300000, guid: b5e9bdd3eb0f347408eb081db5a31112, type: 3}
   - weaponShootClip: {fileID: 8300000, guid: d527967b8a4c6cf4c807cfe897b5fb2d, type: 3}
-  - bullet: {instanceID: 0}
+  - dyingClip: {fileID: 8300000, guid: b5e9bdd3eb0f347408eb081db5a31112, type: 3}
+  - bullet: {fileID: 1838327726440412492, guid: 0c68ff16dcc094b9aad109f2cd25a6ca,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

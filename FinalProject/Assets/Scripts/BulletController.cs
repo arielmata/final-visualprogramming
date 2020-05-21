@@ -14,7 +14,6 @@ public class BulletController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         rb.velocity = new Vector2(speed, 0);
-        scoreText = GameObject.Find("ScoreText").GetComponent<TextMeshProUGUI>();
     }
 
     // Update is called once per frame

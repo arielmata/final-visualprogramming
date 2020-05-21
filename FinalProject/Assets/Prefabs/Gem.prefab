@@ -98,7 +98,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf2cac5f4780c484cb9e7b67eb6551e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moneyType: 0
+  moneyType: 1
   goldScore: 0
   gemScore: 100
   bagScore: 0

@@ -6,20 +6,22 @@ public class EnemyController : MonoBehaviour
 {
     public GameObject bullet;
     public Transform player;
+    public PlayerMovement p1;
+
     public Animator animator;
+
+    public AudioClip deathClip;
+    public AudioClip shootClip;
     
     public float distanceMin = 10f;
     private float distanceFromPlayer;
 
     private bool isFacingRight = true;
+    public bool isDead = false;
 
-    private float timerBullet;
-    private float maxTimerBullet;
-
+    private float timer = 0f;
+    public float timerAmount = 4f;
     public float dyingTime = 1f;
-    public float timerMin = 2f;
-    public float timerMax = 10f;
-    public bool canFireBullets = false;
 
     // Update is called once per frame
     void Update()
@@ -35,42 +37,30 @@ public class EnemyController : MonoBehaviour
             Flip();
         }
 
-        // Next, we want to see y distance min.
-        if (Mathf.Abs(distanceFromPlayer) < distanceMin || Mathf.Abs(transform.position.y - player.position.y) < distanceMin)
+        timer += Time.deltaTime;
+        if (Mathf.Abs(distanceFromPlayer) < distanceMin && Mathf.Abs(transform.position.y - player.position.y) < distanceMin && !isDead)
         {
-            canFireBullets = true;
-            Shoot();
-        }
-        else
-        {
-            canFireBullets = false;
+            if (timer > timerAmount)
+            {
+                Shoot();
+                timer = 0;
+            }
         }
     }
 
     void Shoot()
     {
-        while (canFireBullets)
+        if (isFacingRight)
         {
-            timerBullet = 0f;
-            maxTimerBullet = Random.Range(timerMin, timerMax);
-
-            if (timerBullet >= maxTimerBullet)
-            {
-                if (!isFacingRight)
-                {
-                    GameObject.Instantiate(bullet, transform.position, transform.rotation);
-                }
-                else
-                {
-                    bullet.GetComponent<EnemyBulletController>().speed *= -1;
-                    GameObject.Instantiate(bullet, transform.position, transform.rotation);
-                    bullet.GetComponent<EnemyBulletController>().speed *= -1;
-                }
-                timerBullet = 0;
-                maxTimerBullet = Random.Range(timerMin, timerMax);
-            }
-            timerBullet += 0.1f;
+            GameObject.Instantiate(bullet, transform.position, transform.rotation);
         }
+        else
+        {
+            bullet.GetComponent<EnemyBulletController>().speed *= -1;
+            GameObject.Instantiate(bullet, transform.position, transform.rotation);
+            bullet.GetComponent<EnemyBulletController>().speed *= -1;
+        }
+        AudioSource.PlayClipAtPoint(shootClip, transform.position);
     }
 
     void Flip()
@@ -88,8 +78,13 @@ public class EnemyController : MonoBehaviour
     {
         if (collision.gameObject.layer == 11)
         {
-            animator.SetBool("IsDying", true);
+            isDead = true;
+            animator.SetBool("IsDead", true);
+            AudioSource.PlayClipAtPoint(deathClip, transform.position);
             Destroy(this.gameObject, dyingTime);
+        } else if (collision.gameObject.layer == 9 && !isDead)
+        {
+            p1.health += 3;
         }
     }
 }

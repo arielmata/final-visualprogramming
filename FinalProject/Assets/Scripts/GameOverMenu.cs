@@ -6,13 +6,16 @@ using UnityEngine.SceneManagement;
 public class GameOverMenu : MonoBehaviour
 {
     public static bool GameIsOver = false;
-    public GameObject gameOverMenuUI;
+    public GameObject gameOverBadMenuUI;
+    public GameObject gameOverGoodMenuUI;
     public PlayerMovement player;
 
     // Start is called before the first frame update
     void Start()
     {
-        gameOverMenuUI.SetActive(false); // Don't want pause menu to show when game starts
+        // Don't want pause menu to show when game starts
+        gameOverBadMenuUI.SetActive(false); 
+        gameOverGoodMenuUI.SetActive(false);
     }
 
 
@@ -22,20 +25,28 @@ public class GameOverMenu : MonoBehaviour
 
         if (player.health >= 3)
         {
-            GameOver();
+            GameOverBad();
         }
         else if (player.finishedGame)
         {
-            GameOver();
+            GameOverGood();
         }
     }
 
-    void GameOver()
+    void GameOverBad()
     {
-        Debug.Log("GAME OVER!");
-        gameOverMenuUI.SetActive(true);
-        Time.timeScale = 0f; // freeze game
+        Debug.Log("GAME OVER! YOU LOST!");
+        gameOverBadMenuUI.SetActive(true);
         GameIsOver = true;
+        Time.timeScale = 0f;
+    }
+
+    void GameOverGood()
+    {
+        Debug.Log("GAME OVER! CONGRATS!");
+        gameOverGoodMenuUI.SetActive(true);
+        GameIsOver = true;
+        Time.timeScale = 0f;
     }
 
     public void LoadMenu()

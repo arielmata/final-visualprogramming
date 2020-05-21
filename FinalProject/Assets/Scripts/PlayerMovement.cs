@@ -6,17 +6,19 @@ public class PlayerMovement : MonoBehaviour
 {
     public CharacterController2D controller;
     public Animator animator;
-
     public AudioClip jumpClip;
-    public AudioClip grenadeClip;
     public AudioClip gameOverClip;
     public AudioClip weaponShootClip;
+    public AudioClip gameOverBadClip;
+    public AudioClip gameOverGoodClip;
 
     public GameObject bullet;
     public float runSpeed = 25f;
-    public bool hasGrenade = false;
 
-    public float dyingTimeMax = 0.11f;
+    public float dyingTimeMax = 0.5f;
+    public float hurtingTimeMax = 1f;
+    private float hurtingTimeCur = 0f;
+    private bool isHurt = false;
 
     float horizontalMove = 0f; // Default horizontal speed is zero
     bool jumpFlag = false;
@@ -56,7 +58,23 @@ public class PlayerMovement : MonoBehaviour
             // if player is shot 3 times
             animator.SetBool("IsDead", true); // play dying animation
             Destroy(this.gameObject, dyingTimeMax);
+            AudioSource.PlayClipAtPoint(gameOverBadClip, transform.position);
+        }
 
+        if (isHurt)
+        {
+            animator.SetBool("IsHurting", true);
+            hurtingTimeCur += Time.fixedDeltaTime;
+        }
+        else
+        {
+            isHurt = false;
+            animator.SetBool("IsHurting", false);
+        }
+
+        if (hurtingTimeCur > hurtingTimeMax)
+        {
+            isHurt = false;
         }
     }
 
@@ -68,7 +86,7 @@ public class PlayerMovement : MonoBehaviour
             // If primary object is pressed, create object at current position 
             // and create instance of bullet
             Debug.Log("Pressed primary button.");
-            if (!controller.m_FacingRight)
+            if (controller.m_FacingRight)
             {
                 GameObject.Instantiate(bullet, transform.position, transform.rotation);
             }
@@ -81,20 +99,6 @@ public class PlayerMovement : MonoBehaviour
             
             AudioSource.PlayClipAtPoint(weaponShootClip, transform.position); // Play weaponShootClip
 
-        }
-    }
-
-    void Grenade()
-    {
-        if (hasGrenade)
-        {
-            //if player has sticky grenade
-            if (Input.GetMouseButtonDown(1))
-            {
-                // if player presses secondary button
-                // launch grenade certain distance
-                // if grenade makes contact with police or wall, then it breaks or kills it - should be in grenade controller
-            }
         }
     }
 
@@ -116,15 +120,13 @@ public class PlayerMovement : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.layer == 10)
-        {
-            health += 3; // player instantly dies if comes into contact with police
-        } else if (collision.gameObject.layer == 12)
+        if (collision.gameObject.layer == 12)
         {
             health++; // if shot by enemy bullet, then player loses one heart
-            animator.SetBool("IsHurting", true);
-        } else if (collision.gameObject.layer == 13)
+            isHurt = true;
+        } else if (collision.gameObject.layer == 14)
         {
+            AudioSource.PlayClipAtPoint(gameOverGoodClip, transform.position);
             finishedGame = true;
         }
     }
